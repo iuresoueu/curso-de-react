@@ -1,2 +1,2 @@
-# curso-de-react
+# Curso de React
 Curso básico de React
